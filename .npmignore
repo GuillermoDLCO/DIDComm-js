@@ -1,5 +1,3 @@
-tsconfig.json
-tslint.json
-.prettierrc
+prettierrc
 jestconfig.json
 jest.config.js
